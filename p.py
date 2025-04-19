@@ -1,4 +1,4 @@
-s="hello"
+s="hello world"
 
 if s == s[::-1]:
     print("palindrome")
